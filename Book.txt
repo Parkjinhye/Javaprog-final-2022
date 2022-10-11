@@ -1,0 +1,6 @@
+The Giver,Lois Lowry,Bantam Books,(x)
+Charlotte's Web,E. B. White,HarperTrophy,(o)
+Mieko and the Fifth Treasure,Eleanor Coerr,Puffin Books,(o)
+Peter Pan,J. M. Barrie,Hodder & Stoughton,(o)
+The Old Man and the Sea,Ernest Hemingway,Simon & Schuster,(x)
+1984,George Orwell,Signet Book,(o)
