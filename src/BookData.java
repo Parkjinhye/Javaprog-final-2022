@@ -47,6 +47,6 @@ public class BookData {
 
 	
 	public String toString() {
-		return "[" + title + "] ÀúÀÚ=" + author + " ÃâÆÇ»ç=" + publisher + "  " + loan;
+		return "[" + title + "] ì €ì=" + author + " ì¶œíŒì‚¬=" + publisher + "  " + loan;
 	}
 }
